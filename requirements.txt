@@ -1,0 +1,5 @@
+The software was developed on Windows 10 Pro PC with MATLAB R2014b.
+
+Configuration files saved as .xlsx using Excel 2016.
+
+No other dependencies are reported.
